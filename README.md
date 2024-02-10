@@ -39,6 +39,7 @@ The model currently supports recognition of the following gestures:
 A-Z letters
 
 **Model Training**
+
 The machine learning model used for gesture recognition was trained on a dataset of hand gesture images. The training process involved preprocessing the images, extracting relevant features using MediaPipe, and training a convolutional neural network (CNN) using TensorFlow/Keras.
 
 Credits
