@@ -3,13 +3,14 @@
 This project aims to detect and recognize sign language gestures using computer vision and machine learning techniques. It utilizes the MediaPipe library for hand detection and tracking, as well as a trained machine learning model to recognize gestures.
 
 **Requirements**
-Python 3.x
-OpenCV
-MediaPipe
-TensorFlow/Keras
-NumPy
-pickle
-gTTS (Google Text-to-Speech) - for macOS users
+
+1. Python 3.10
+2. OpenCV
+3. MediaPipe
+4. TensorFlow/Keras
+5. NumPy
+6. pickle
+7. gTTS (Google Text-to-Speech) - for macOS users
 
 **Installation**
 1. Clone the repository to your local machine:
