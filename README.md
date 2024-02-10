@@ -1,4 +1,5 @@
-Sign Language Detection Project
+**Sign Language Detection Project**
+
 This project aims to detect and recognize sign language gestures using computer vision and machine learning techniques. It utilizes the MediaPipe library for hand detection and tracking, as well as a trained machine learning model to recognize gestures.
 
 **Requirements**
