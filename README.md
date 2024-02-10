@@ -14,7 +14,7 @@ gTTS (Google Text-to-Speech) - for macOS users
 **Installation**
 1. Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/sign-language-detection.git
+git clone https://github.com/nrrpatel/sign-language-detection.git
 
 2. Navigate to the project directory:
 
