@@ -15,7 +15,7 @@ This project aims to detect and recognize sign language gestures using computer 
 **Installation**
 1. Clone the repository to your local machine:
 
-git clone https://github.com/nrrpatel/sign-language-detection.git
+git clone https://github.com/nrrpatel/SignLanguageDetection
 
 2. Navigate to the project directory:
 
